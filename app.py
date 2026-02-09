@@ -19,7 +19,7 @@ if 'QDRANT_API_KEY' in st.secrets:
 
 EMBEDDING_MODEL = "text-embedding-3-large"
 
-EMBEDDING_DIM = 3072
+EMBEDDING_DIM = 3072 
 
 AUDIO_TRANSCRIBE_MODEL = "whisper-1"
 
